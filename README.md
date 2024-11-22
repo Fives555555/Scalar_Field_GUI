@@ -1,8 +1,6 @@
-# Scientific Programming in Python – submission 3
+# Scientific Programming in Python
 
 ### Project title: $\Lambda$ CDM cosmology + a single axion scalar field
-
-### Student name: Lauren Gaughan
 
 This repository contains code to investigate simple changes to parameter values in  $\Lambda$ CDM cosmology with an added single axion scalar field.
 
